@@ -1,0 +1,1 @@
+This whitelist was pulled once a day. Together with the iptables-script it managed the filtering of node-IPv6 addresses and make them available from the internet. As we stopped filtering from internet, the whitlist is not needed anymore.
